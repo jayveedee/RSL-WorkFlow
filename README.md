@@ -12,8 +12,9 @@ Add your ``.rsl`` files to the ``rsl`` directory.
 | rsltc -m `<file>`     | Type check and compiles to SML                                    |
 | sml < `<file>`        | Runs compiled `.sml` file                                         |
 
-# References
+# Resources
 
 - [RSL (RAISE Specification Language) & RAISE (Rigorous Approach to Industrial Software Engineering)](https://raisetools.github.io/)
 - [RSLTC (RAISE Specification Language Type Checker)](https://github.com/raisetools/rsltc)
 - [SML (Standard Meta Language)](https://smlfamily.github.io/)
+- [RAISE Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=janaszkiewicz-dtu.raise)
